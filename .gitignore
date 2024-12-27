@@ -1,0 +1,58 @@
+# Archivos de configuración de Visual Studio
+.vs/
+.vscode/
+.idea/
+
+# Archivos de usuario
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Archivos binarios y de compilación
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]Release/
+[Dd]ebug*[^.pdb]
+[Dd]Release*[^.pdb]
+x64/
+x86/
+x64/Release/
+x64/Debug/
+x86/Release/
+x86/Debug/
+# Archivos temporales de compilación
+*.tmp
+*.temp
+*.bak
+
+# Archivos de paquetes
+# Dependiendo de cómo esté configurado el proyecto, puedes incluir lo siguiente:
+node_modules/
+packages/
+
+# Archivos de configuración de NUnit, ReSharper, etc.
+.idea/
+*.nunit
+*.resharper
+
+# Archivos de bases de datos locales
+*.mdf
+*.ldf
+
+# Archivos generados por herramientas de profiling
+*.coverage
+*.coveragexml
+*.testsettings
+*.vspscc
+
+# Archivos de logs
+*.log
+
+# Archivos de configuración de Azure, etc.
+local.settings.json
+
+# Archivos de respaldo de editores
+*~
+obj/
+bin/
